@@ -17,4 +17,8 @@ Phát triển Phần mềm quản lý
    - Điểm B: Dựa vào điểm thi + Bài thực hành + Bài kiểm tra
    - Điểm C: Điểm danh + Làm bài thực hành
 BÀI THỰC HÀNH SỐ 1: tạo dự án MVC đầu tiên và đẩy lên github
-   - dotnet new mvc -o PROJECT_NAME 
+   - dotnet new mvc -o PROJECT_NAME
+4. Ngày 13/01
+   - Nộp bài thực hành HTML, CSS (Boostrap/W3.css), bao gồm các thư mục: HTML, CSS, DemoMVC
+   - Tích hợp thư viện CSS và trong project DemoMVC: Views/Shared/_Layout.cshtml
+5. 
